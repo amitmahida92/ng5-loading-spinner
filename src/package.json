@@ -1,0 +1,28 @@
+{
+  "name": "ng5-loading-spinner",
+  "version": "0.1.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/amitmahida92/ng5-loading-spinner"
+  },
+  "author": {
+    "name": "Amit Mahida",
+    "email": "amit.mahida9292@gmail.com"
+  },
+  "keywords": [
+    "angular"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/amitmahida92/ng5-loading-spinner/issues"
+  },
+  "main": "ng5-loading-spinner.umd.js",
+  "module": "ng5-loading-spinner.js",
+  "jsnext:main": "ng5-loading-spinner.js",
+  "typings": "ng5-loading-spinner.d.ts",
+  "peerDependencies": {
+    "@angular/core": "^4.0.0",
+    "rxjs": "^5.1.0",
+    "zone.js": "^0.8.4"
+  }
+}
